@@ -1,0 +1,21 @@
+body{
+    background-color: blue;
+}
+
+.joke-container{
+    text-align: center;
+}
+
+button{
+    margin-left: 240px;
+}
+
+.content{
+    border: black 2px solid;
+    background-color: pink;
+    padding: 70px;
+    height: 400px;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 100px;
+}
